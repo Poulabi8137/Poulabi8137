@@ -63,7 +63,6 @@ I'm a B.Tech CSE (AI/ML) student interested in building practical AI-powered pro
 
 ## Featured Projects
 
-> Replace each project link with the exact repository URL. The preview images below are cropped from your design mockup for layout matching; replace them with genuine screenshots from the running projects before publishing. Only add a Live Demo link when the deployment actually works.
 
 <table>
   <tr>
