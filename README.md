@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-    <img alt="Poulabi Ghosh — AI/ML, Software Engineering, Applied AI" src="assets/banner-light.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
+    <img alt="Poulabi Ghosh — AI/ML, Software Engineering, Applied AI" src="banner-light.png" width="100%">
   </picture>
 </p>
 
@@ -68,21 +68,21 @@ I'm a B.Tech CSE (AI/ML) student interested in building practical AI-powered pro
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/Poulabi8137/agentic-ai-research"><img src="assets/aara-preview.png" alt="AARA preview" width="100%"></a>
+      <a href="https://github.com/Poulabi8137/agentic-ai-research"><img src="aara-preview.png" alt="AARA preview" width="100%"></a>
       <h3>AARA — Agentic AI Research Assistant</h3>
       Research-gap exploration, paper analysis, and research-output generation.
       <br><sub>Next.js · FastAPI · ChromaDB · LLMs</sub>
       <br><a href="https://github.com/Poulabi8137/agentic-ai-research">Code ↗</a>
     </td>
     <td width="33%" valign="top">
-      <img src="assets/self-healing-ci-preview.png" alt="Self-Healing CI Agent preview" width="100%">
+      <img src="self-healing-ci-preview.png" alt="Self-Healing CI Agent preview" width="100%">
       <h3>Self-Healing CI Agent</h3>
       CI failure analysis and fix-generation workflow. Clearly document which steps are real and which are simulated.
       <br><sub>Python · GitHub Actions · LLMs</sub>
       <br><a href="https://github.com/Poulabi8137?tab=repositories">Find repository ↗</a> · Demo only if deployed
     </td>
     <td width="33%" valign="top">
-      <img src="assets/intellirank-preview.png" alt="IntelliRank AI preview" width="100%">
+      <img src="intellirank-preview.png" alt="IntelliRank AI preview" width="100%">
       <h3>IntelliRank AI <sub>Prototype</sub></h3>
       Candidate-ranking and explainability prototype. State clearly if the interface uses mock data.
       <br><sub>React · FastAPI · ML</sub>
@@ -91,21 +91,21 @@ I'm a B.Tech CSE (AI/ML) student interested in building practical AI-powered pro
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <img src="assets/ecommerce-etl-preview.png" alt="E-commerce Sales ETL preview" width="100%">
+      <img src="ecommerce-etl-preview.png" alt="E-commerce Sales ETL preview" width="100%">
       <h3>E-commerce Sales ETL</h3>
       Data pipeline and visualization for sales insights. Include dataset details and reproducible outputs.
       <br><sub>Python · PostgreSQL · Plotly</sub>
       <br><a href="https://github.com/Poulabi8137?tab=repositories">Find repository ↗</a>
     </td>
     <td width="33%" valign="top">
-      <img src="assets/phishing-detection-preview.png" alt="Phishing Website Detection preview" width="100%">
+      <img src="phishing-detection-preview.png" alt="Phishing Website Detection preview" width="100%">
       <h3>Phishing Website Detection</h3>
       ML-based detection with dataset, evaluation method, measured metrics, and limitations documented.
       <br><sub>Python · TensorFlow · ML</sub>
       <br><a href="https://github.com/Poulabi8137?tab=repositories">Find repository ↗</a>
     </td>
     <td width="33%" valign="top">
-      <img src="assets/iris-classification-preview.png" alt="Iris Classification preview" width="100%">
+      <img src="iris-classification-preview.png" alt="Iris Classification preview" width="100%">
       <h3>Iris Classification</h3>
       Reproducible classification workflow with a documented train/test split and real evaluation results.
       <br><sub>Python · scikit-learn</sub>
